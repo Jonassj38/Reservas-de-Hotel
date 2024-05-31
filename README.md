@@ -2,21 +2,21 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Reservas de Hotel.
 
-![screenshot](./app_screenshot.png)
+![screenshot](Captura%20de%20pantalla%202024-05-31%20115659.jpg)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- PHP
+- 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://hotel-jonass.000webhostapp.com/)
 
 
 ## Getting Started
@@ -43,23 +43,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 ** Jonas Alcantara **
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/aristides_1000)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristides-molina/)
+- GitHub: [@Jonassj38](https://github.com/@Jonassj38)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Jonassj38/Reservas-de-Hotel/issues).
 
 ## Show your support
 
